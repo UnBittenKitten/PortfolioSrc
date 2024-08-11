@@ -1,0 +1,1 @@
+If you want to build the portfolio by yourself just follow the regular Vite + React instalation.
